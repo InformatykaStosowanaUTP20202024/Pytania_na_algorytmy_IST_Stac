@@ -546,6 +546,22 @@ B. krawędź łącząca dwa wierzchołki
 C. wierzchołek łączący dwie krawędzie
 D. wierzchołek, do którego są skierowane jednostronnie inne wierzchołki
 
+
+99. Algorytm Euklidesa to algorytm: (Norbert Nowotka)
+	A. obliczający ONP
+	B. obliczający NWD
+	C. obliczający NWW i NWD
+	D. obliczający NWW
+ODP: B	
+
+100. Schemat Hornera to: (Norbert Nowotka)
+	A. to sposób na obliczanie wielomianu w punkcie
+	B. to sposób wyznaczania NWW
+	C. to sposób sprowadzania ułamków do wspólnego mianownika
+	D. to sposób na obliczanie wielomianu w przedziale
+ODP: A
+
+
 99. Jaka jest minimalna wymagana złożoność obliczeniowa do rozwiązania problemów o klasie NP ? (Marek Łysiak)
    -Sześcienna
    -Wielomianowa (poprawne)
@@ -558,4 +574,4 @@ D. wierzchołek, do którego są skierowane jednostronnie inne wierzchołki
    -liczba kroków potrzebnych do rozwiązania problemu (poprawne)
    -złożoność i zawiłość problemu
    
-   
+
